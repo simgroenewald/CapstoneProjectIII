@@ -1,0 +1,9 @@
+Ashley, Admin, File all paperwork, 2019-11-09, 13/11/2019, Incomplete
+Ashley, Emails, Send out product list to all customers, 2019-11-09, 20/11/2019, Incomplete
+Dave, IT, Update all PC software, 2019-11-09, 30/11/2019, Incomplete
+Edward, Logistics, Send out all trucks to delivery destinations, 2019-11-09, 21/11/2019, Incomplete
+Dave, IT, Set up new PC and projector, 2019-11-09, 14/11/2019, Incomplete
+Ashley, Admin, Log all new data, 2019-11-11, 23/11/2019, Incomplete
+Dave, IT, Order printing paper, 2019-11-11, 12/11/2019, Incomplete
+Frank, HR, Fill in leave forms, 2019-11-11, 25/11/2019, Incomplete
+Frank, HR, Pay salaries, 2019-11-11, 30/11/2019, Incomplete
